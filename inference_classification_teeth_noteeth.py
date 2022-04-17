@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1jc96jtXyJlJaEUJT135ZF1KFuprhc5jR
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
+#from google.colab import drive
+#drive.mount('/content/drive')
 
 import tensorflow as tf
 from tensorflow import keras
